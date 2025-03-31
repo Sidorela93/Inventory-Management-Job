@@ -1,0 +1,47 @@
+/* Stili për containerin e titullit */
+.title-container {
+    width: 100%;
+    max-width: 1900px;
+    height: 45px;
+    background-color: #f8f8fa;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start; /* E vendos titullin në anën e majtë */
+    padding: 10px 20px; /* Hapësirë nga e majta për të mos qenë ngjitur */
+    margin: 20px auto; /* Qendron në qendër horizontalisht me hapësirë sipër/poshtë */
+  }
+  
+  /* Stili për tekstin */
+  .title-text {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    color: #000;
+    margin: 0;
+  }
+  
+  /* Përgjegjësi për ekrane më të vogla */
+  @media (max-width: 768px) {
+    .title-container {
+      height: auto;
+      padding: 15px 20px; /* Hapësirë nga e majta për të mbetur anash */
+    }
+    
+    .title-text {
+      font-size: 14px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .title-container {
+      padding: 10px 15px;
+    }
+    
+    .title-text {
+      font-size: 12px;
+    }
+  }
+  

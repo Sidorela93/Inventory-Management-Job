@@ -1,0 +1,83 @@
+.status-summary {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.status-summary div {
+  flex: 1;
+  text-align: center;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
+.status-select {
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+/* Ngjyrat për statusin */
+.on-hold {
+  background-color: #ff4d4d;
+  color: white;
+}
+
+.on-road {
+  background-color: #f4e04d;
+  color: black;
+}
+
+.completed {
+  background-color: #69c36c;
+  color: white;
+}
+
+.status-select {
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+}
+
+/* Ngjyrat për opsionet */
+.on-hold {
+  background-color: #ff4d4d !important;
+  color: white;
+}
+
+.on-road {
+  background-color: #f4e04d !important;
+  color: black;
+}
+
+.completed {
+  background-color: #69c36c !important;
+  color: white;
+}
+
+/* Ngjyra dinamike për select kur zgjidhet */
+.status-select.on-hold {
+  background-color: #ff4d4d;
+  color: white;
+}
+
+.status-select.on-road {
+  background-color: #f4e04d;
+  color: black;
+}
+
+.status-select.completed {
+  background-color: #69c36c;
+  color: white;
+}
+
+
+
+.status-summary .on-road { background-color: #f7c600; }
+.status-summary .completed { background-color: #28a745; }
+.status-summary .on-hold { background-color: #dc3545; }
