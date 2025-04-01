@@ -100,7 +100,7 @@ The Search button enables searching and filtering of category data in the table 
  Inventory modal functionality in the data table.
 When the user clicks on a field in the displayed table, a modal opens that allows changing the data in that row. After editing the data in the modal, the user can save the changes and they will be updated in the application table.
 
-![image](https://github.com/user-attachments/assets/bc98f9fb-a3a7-4f3d-90d8-45a0533a3e02)
+
 
 
 Functionality Description:
@@ -108,8 +108,7 @@ Functionality Description:
 Field Click: When the user clicks on a specific field in the table (for example, a field containing the name of a Jobsite), a modal opens containing a form for changing the data.
 Edit Modal: The modal contains input fields where the user can change the relevant data such as name, category, etc.
 Save Changes: After the user has made the desired changes in the modal, they can click a Save button, and the changes will be saved and updated in the Jobsite table.
-![image](https://github.com/user-attachments/assets/d6c20800-dac9-4780-bc24-17459f63fbe5)
-![image](https://github.com/user-attachments/assets/679ac319-927c-42fd-9b98-9824c6b66a49)
+
 
 
 
