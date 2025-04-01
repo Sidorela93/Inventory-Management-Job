@@ -44,9 +44,7 @@ State to hold the form data: We use React state to store the data that the user 
 Redux for data management: Once the form in the modal is filled out, the data can be saved in Redux and added to the list of Jobsites.
  ![image](https://github.com/user-attachments/assets/61ce7332-5965-4d04-9643-b6b1d84e18c6)
 
- ![image](https://github.com/user-attachments/assets/bc95f38e-85aa-49c6-ae82-8341e3f68403)
 
- ![image](https://github.com/user-attachments/assets/98e6c13c-b221-4c5f-b768-66ce35141633)
  
 
 
