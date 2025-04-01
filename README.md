@@ -61,7 +61,7 @@ Using React State
 How it works:
 When the user enters a full word or part of it (e.g., part of a Jobsite address), the table is updated and only shows Jobsites that contain the search term.
 This can help in browsing and finding jobsites faster and more efficiently.
-![image](https://github.com/user-attachments/assets/46db5b61-ea01-480d-b6a7-a6e98c6059fd)
+
 
 
 
@@ -77,8 +77,7 @@ Click on Category: The user can click on the category name, and this will displa
 How it works:
 Navigate to Inventory Page: When the user clicks on the Jobsite name in the table, it is automatically navigated to the corresponding Inventory page.
 Category Data: After clicking on the category, a new table appears with the specific data of that category.
-![image](https://github.com/user-attachments/assets/38e2346d-30a5-4296-ac86-67eaaaf78aa7)
-![image](https://github.com/user-attachments/assets/8bd5f6c4-0c4e-4f5d-8f90-a5eb30c9ebad)
+
 
 
 
@@ -92,7 +91,6 @@ The Search button enables searching and filtering of category data in the table 
 
  
 
-![image](https://github.com/user-attachments/assets/81e0698f-10d9-4145-9282-6bb3c8bad388)
 
 
 
