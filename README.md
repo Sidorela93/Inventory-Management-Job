@@ -1,4 +1,4 @@
-# Inventory Management - Sidorelatest
+# Inventory-Management-Job
 
 This project is an inventory management system built with React and Redux. It allows you to create and manage data for jobsites and store their information for further use.
 
